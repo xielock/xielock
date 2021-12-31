@@ -10,7 +10,7 @@ I'm Xielock, a Student from SJTU.
 - 👨‍💻 C++, Python
 - ⚙️ Linux, ROS
 - 👁️ MySQL, SQL
-- 💽 OpenCV, deep learning...
+- 💽 OpenCV, Deep Learning...
 
 
 ## Contact
