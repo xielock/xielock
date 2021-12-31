@@ -13,7 +13,7 @@ I'm Xielock, a Student from SJTU.
 
 
 ## Contact
-- [xielock_qq](1812822378)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@presonal website](xielock)
+- [@weibo](https://weibo.com/u/2726978024) on Sina Weibo
+- [@xielock_ins](https://www.instagram.com/16.42220394/) on Instagram
+- [](./) on Discord
