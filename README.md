@@ -13,7 +13,7 @@ I'm Xielock, a Student from SJTU.
 
 
 ## Contact
-- [@presonal website](xielock)
+- [@presonal website](xielock.com)
 - [@weibo](https://weibo.com/u/2726978024) on Sina Weibo
 - [@xielock_ins](https://www.instagram.com/16.42220394/) on Instagram
 - [](./) on Discord
