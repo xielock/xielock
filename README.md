@@ -1,7 +1,7 @@
 ![](https://github.com/xielock/xielock/blob/main/name.svg)
 ### Hi there 👋
 I'm Xielock, a Student from SJTU.
-- 👥 Core Team Member at Lab227.
+- 👥 Team Member at Lab227.
 - 🧭 Research on Multi-sensor Information Fusion, Image Processing, Deep Learning, etc.
 
 
