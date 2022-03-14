@@ -9,7 +9,6 @@ I'm Xielock, a Student from SJTU.
 ## Skills
 - 👨‍💻 C++, Python
 - ⚙️ Linux, ROS
-- 👁️ MySQL, SQL
 - 💽 OpenCV, Deep Learning...
 
 
